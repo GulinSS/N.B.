@@ -18,3 +18,5 @@ http://cd.monimus.com:8080/ sample of good documented dev process
 http://blog.scalyr.com/2013/10/31/angularjs-1200ms-to-35ms/ better explanation angular.js optimizations
 
 http://wamp.ws/ generic solution for pub/sub and websockets
+
+https://www.digitalocean.com/community/articles/how-to-use-digitalocean-as-your-provider-in-vagrant-on-an-ubuntu-12-10 use digital ocean as vagrant instance
