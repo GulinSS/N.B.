@@ -20,3 +20,5 @@ http://blog.scalyr.com/2013/10/31/angularjs-1200ms-to-35ms/ better explanation a
 http://wamp.ws/ generic solution for pub/sub and websockets
 
 https://www.digitalocean.com/community/articles/how-to-use-digitalocean-as-your-provider-in-vagrant-on-an-ubuntu-12-10 use digital ocean as vagrant instance
+
+https://github.com/applicationsonline/librarian-chef useful tool for cheif setup and version control
