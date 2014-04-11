@@ -24,3 +24,5 @@ https://www.digitalocean.com/community/articles/how-to-use-digitalocean-as-your-
 https://github.com/applicationsonline/librarian-chef useful tool for cheif setup and version control
 
 https://speakerdeck.com/mourner/high-performance-data-visualizations excellent example of javascript optimizations!
+
+http://www.html5rocks.com/en/tutorials/workers/basics/ web workers howto + script insertion example
