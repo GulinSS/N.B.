@@ -22,3 +22,5 @@ http://wamp.ws/ generic solution for pub/sub and websockets
 https://www.digitalocean.com/community/articles/how-to-use-digitalocean-as-your-provider-in-vagrant-on-an-ubuntu-12-10 use digital ocean as vagrant instance
 
 https://github.com/applicationsonline/librarian-chef useful tool for cheif setup and version control
+
+https://speakerdeck.com/mourner/high-performance-data-visualizations excellent example of javascript optimizations!
