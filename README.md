@@ -26,3 +26,8 @@ https://github.com/applicationsonline/librarian-chef useful tool for cheif setup
 https://speakerdeck.com/mourner/high-performance-data-visualizations excellent example of javascript optimizations!
 
 http://www.html5rocks.com/en/tutorials/workers/basics/ web workers howto + script insertion example
+
+Our build-test-deploy system
+https://coderwall.com/p/ewk0mq
+https://github.com/vvo/docker-selenium-firefox-chrome-beta
+https://github.com/zaiste/docker-jenkins
