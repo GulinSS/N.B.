@@ -31,3 +31,4 @@ Our build-test-deploy system
 https://coderwall.com/p/ewk0mq
 https://github.com/vvo/docker-selenium-firefox-chrome-beta
 https://github.com/zaiste/docker-jenkins
+https://www.digitalocean.com/community/tutorials/how-to-dockerise-and-deploy-multiple-wordpress-applications-on-ubuntu (no needing with ufw, all works without it)
