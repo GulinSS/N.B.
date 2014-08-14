@@ -31,6 +31,7 @@ Our build-test-deploy system
 https://coderwall.com/p/ewk0mq
 https://github.com/elgalu/docker-selenium
 https://github.com/zaiste/docker-jenkins
+https://www.simple-talk.com/dotnet/.net-framework/xpath,-css,-dom-and-selenium-the-rosetta-stone/
 https://www.digitalocean.com/community/tutorials/how-to-dockerise-and-deploy-multiple-wordpress-applications-on-ubuntu (no needing with ufw, all works without it)
 
 http://spacetelescope.github.io/understanding-json-schema/UnderstandingJSONSchema.pdf the best description for json schemas
